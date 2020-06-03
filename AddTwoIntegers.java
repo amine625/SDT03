@@ -10,6 +10,6 @@ public class AddTwoIntegers  {
         System.out.println("Enter three numbers: " + first + " " + second + " "+ third);
         int sum = first + second + third;
 
-        System.out.println("The sum is: " + sum);
+        System.out.println("The solution is: " + sum);
     }
 }
